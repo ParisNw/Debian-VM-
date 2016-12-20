@@ -1,0 +1,168 @@
+2016-12-19 09:20:52 exim 4.84_2 daemon started: pid=771, -q30m, listening for SMTP on [127.0.0.1]:25
+2016-12-19 09:20:53 Start queue run: pid=788
+2016-12-19 09:20:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 09:20:55 1cImAN-0001CD-0m == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 09:20:56 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 09:20:56 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 09:20:56 1cImN5-0001OE-3r == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 09:20:56 End queue run: pid=788
+2016-12-19 09:50:53 Start queue run: pid=5600
+2016-12-19 09:50:53 1cImAN-0001CD-0m == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 09:50:53 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 09:50:53 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 09:50:53 1cImN5-0001OE-3r == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 09:50:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 09:50:53 End queue run: pid=5600
+2016-12-19 10:20:53 Start queue run: pid=6081
+2016-12-19 10:20:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 10:20:53 1cImAN-0001CD-0m == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 10:20:53 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 10:20:53 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 10:20:53 1cImN5-0001OE-3r == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 10:20:53 End queue run: pid=6081
+2016-12-19 10:45:17 1cJ07p-0001ht-9b <= nagios@debian U=nagios P=local S=604
+2016-12-19 10:45:17 1cJ07p-0001ht-9b => pn57 <root@localhost> R=local_user T=maildir_home
+2016-12-19 10:45:17 1cJ07p-0001ht-9b Completed
+2016-12-19 10:50:53 Start queue run: pid=6639
+2016-12-19 10:50:53 1cImAN-0001CD-0m == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 10:50:53 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 10:50:53 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 10:50:53 1cImN5-0001OE-3r == dc376@njit.edu routing defer (-51): retry time not reached
+2016-12-19 10:50:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 10:50:53 End queue run: pid=6639
+2016-12-19 11:20:53 Start queue run: pid=7203
+2016-12-19 11:20:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 11:20:55 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c01::1b] Network is unreachable
+2016-12-19 11:23:02 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [74.125.192.26] Connection timed out
+2016-12-19 11:23:02 1cImAN-0001CD-0m ALT2.ASPMX.L.GOOGLE.COM [2a00:1450:400b:c03::1b] Network is unreachable
+2016-12-19 11:23:02 1cImAN-0001CD-0m ALT1.ASPMX.L.GOOGLE.COM [2800:3f0:4003:c01::1b] Network is unreachable
+2016-12-19 11:23:33 1cImAN-0001CD-0m ALT2.ASPMX.L.GOOGLE.COM [209.85.203.26] Network is unreachable
+2016-12-19 11:23:33 1cImAN-0001CD-0m ALT4.ASPMX.L.GOOGLE.COM [2a00:1450:4013:c03::1b] Network is unreachable
+2016-12-19 11:23:35 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 11:23:35 1cImOh-0001OM-8j == nwanna615@hotmail.com R=dnslookup defer (-1): host lookup did not complete
+2016-12-19 11:23:35 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 11:23:35 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup defer (-1): host lookup did not complete
+2016-12-19 11:23:35 End queue run: pid=7203
+2016-12-19 11:48:46 1cJ17G-00022T-63 <= root@debian U=root P=local S=313
+2016-12-19 11:48:46 1cJ17G-00022T-63 aspmx.l.google.com [2607:f8b0:400d:c01::1a] Network is unreachable
+2016-12-19 11:48:47 1cJ17G-00022T-63 aspmx.l.google.com [173.194.204.26] Connection refused
+2016-12-19 11:48:47 1cJ17G-00022T-63 alt2.aspmx.l.google.com [2a00:1450:400b:c03::1a] Network is unreachable
+2016-12-19 11:48:48 1cJ17G-00022T-63 alt1.aspmx.l.google.com [64.233.190.27] Connection refused
+2016-12-19 11:48:48 1cJ17G-00022T-63 alt4.aspmx.l.google.com [2a00:1450:4013:c03::1a] Network is unreachable
+2016-12-19 11:48:48 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 11:50:53 Start queue run: pid=7903
+2016-12-19 11:50:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 11:50:53 1cImAN-0001CD-0m alt3.aspmx.l.google.com [2a00:1450:400c:c08::1b] Network is unreachable
+2016-12-19 11:50:54 1cImAN-0001CD-0m alt4.aspmx.l.google.com [74.125.143.27] Connection refused
+2016-12-19 11:50:55 1cImAN-0001CD-0m alt3.aspmx.l.google.com [74.125.140.27] Connection refused
+2016-12-19 11:50:55 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (111): Connection refused
+2016-12-19 11:50:55 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 11:50:55 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 11:50:55 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 11:50:55 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 11:50:55 End queue run: pid=7903
+2016-12-19 12:20:53 Start queue run: pid=8397
+2016-12-19 12:20:53 1cJ17G-00022T-63 aspmx.l.google.com [2607:f8b0:400d:c01::1b] Network is unreachable
+2016-12-19 12:20:54 1cJ17G-00022T-63 aspmx.l.google.com [209.85.232.26] Connection refused
+2016-12-19 12:20:54 1cJ17G-00022T-63 alt2.aspmx.l.google.com [2a00:1450:400b:c00::1b] Network is unreachable
+2016-12-19 12:20:54 1cJ17G-00022T-63 alt1.aspmx.l.google.com [2800:3f0:4003:c00::1a] Network is unreachable
+2016-12-19 12:20:55 1cJ17G-00022T-63 alt2.aspmx.l.google.com [209.85.202.26] Connection refused
+2016-12-19 12:20:55 1cJ17G-00022T-63 alt3.aspmx.l.google.com [2a00:1450:400c:c08::1a] Network is unreachable
+2016-12-19 12:20:55 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 12:20:56 1cImAN-0001CD-0m alt1.aspmx.l.google.com [64.233.186.26] Connection refused
+2016-12-19 12:20:56 1cImAN-0001CD-0m alt4.aspmx.l.google.com [2a00:1450:4013:c04::1b] Network is unreachable
+2016-12-19 12:20:57 1cImAN-0001CD-0m alt4.aspmx.l.google.com [173.194.69.26] Connection refused
+2016-12-19 12:20:58 1cImAN-0001CD-0m alt3.aspmx.l.google.com [74.125.140.26] Connection refused
+2016-12-19 12:20:58 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (111): Connection refused
+2016-12-19 12:20:58 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 12:20:58 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 12:20:58 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 12:20:58 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 12:20:58 End queue run: pid=8397
+2016-12-19 12:50:53 Start queue run: pid=8910
+2016-12-19 12:50:53 1cImAN-0001CD-0m aspmx.l.google.com [2607:f8b0:400d:c00::1a] Network is unreachable
+2016-12-19 12:50:54 1cImAN-0001CD-0m aspmx.l.google.com [209.85.201.27] Connection refused
+2016-12-19 12:50:54 1cImAN-0001CD-0m alt2.aspmx.l.google.com [2a00:1450:400b:c03::1b] Network is unreachable
+2016-12-19 12:50:54 1cImAN-0001CD-0m alt1.aspmx.l.google.com [2800:3f0:4003:c01::1a] Network is unreachable
+2016-12-19 12:50:55 1cImAN-0001CD-0m alt2.aspmx.l.google.com [209.85.203.26] Connection refused
+2016-12-19 12:50:55 1cImAN-0001CD-0m alt4.aspmx.l.google.com [2a00:1450:4013:c03::1b] Network is unreachable
+2016-12-19 12:50:55 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 12:50:56 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 12:50:56 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 12:50:57 1cImN5-0001OE-3r alt1.aspmx.l.google.com [64.233.190.26] Connection refused
+2016-12-19 12:50:57 1cImN5-0001OE-3r alt3.aspmx.l.google.com [2a00:1450:400c:c08::1b] Network is unreachable
+2016-12-19 12:50:58 1cImN5-0001OE-3r alt3.aspmx.l.google.com [74.125.140.26] Connection refused
+2016-12-19 12:50:59 1cImN5-0001OE-3r alt4.aspmx.l.google.com [74.125.143.26] Connection refused
+2016-12-19 12:50:59 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (111): Connection refused
+2016-12-19 12:50:59 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 12:50:59 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 12:50:59 End queue run: pid=8910
+2016-12-19 13:20:53 Start queue run: pid=12722
+2016-12-19 13:20:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 13:20:53 1cJ17G-00022T-63 aspmx.l.google.com [2607:f8b0:400d:c02::1a] Network is unreachable
+2016-12-19 13:20:54 1cJ17G-00022T-63 aspmx.l.google.com [173.194.68.26] Connection refused
+2016-12-19 13:20:54 1cJ17G-00022T-63 alt1.aspmx.l.google.com [2800:3f0:4003:c00::1b] Network is unreachable
+2016-12-19 13:20:54 1cJ17G-00022T-63 alt2.aspmx.l.google.com [2a00:1450:400b:c00::1a] Network is unreachable
+2016-12-19 13:20:54 1cJ17G-00022T-63 alt4.aspmx.l.google.com [2a00:1450:4013:c04::1a] Network is unreachable
+2016-12-19 13:20:54 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 13:20:54 1cImAN-0001CD-0m alt3.aspmx.l.google.com [2a00:1450:400c:c08::1b] Network is unreachable
+2016-12-19 13:20:55 1cImAN-0001CD-0m alt4.aspmx.l.google.com [173.194.69.26] Connection refused
+2016-12-19 13:20:56 1cImAN-0001CD-0m alt3.aspmx.l.google.com [74.125.140.26] Connection refused
+2016-12-19 13:20:56 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (111): Connection refused
+2016-12-19 13:20:56 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 13:20:56 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 13:20:57 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 13:20:57 End queue run: pid=12722
+2016-12-19 13:50:53 Start queue run: pid=13185
+2016-12-19 13:50:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 13:50:53 1cImAN-0001CD-0m aspmx.l.google.com [2607:f8b0:400d:c0d::1a] Network is unreachable
+2016-12-19 13:50:54 1cImAN-0001CD-0m aspmx.l.google.com [173.194.68.26] Connection refused
+2016-12-19 13:50:54 1cImAN-0001CD-0m alt3.aspmx.l.google.com [2a00:1450:400c:c08::1b] Network is unreachable
+2016-12-19 13:50:55 1cImAN-0001CD-0m alt3.aspmx.l.google.com [74.125.140.26] Connection refused
+2016-12-19 13:50:56 1cImAN-0001CD-0m alt4.aspmx.l.google.com [74.125.143.26] Connection refused
+2016-12-19 13:50:56 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (111): Connection refused
+2016-12-19 13:50:57 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 13:50:57 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 13:50:57 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 13:50:57 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (-53): retry time not reached for any host
+2016-12-19 13:50:57 End queue run: pid=13185
+2016-12-19 14:14:52 exim 4.84_2 daemon started: pid=1415, -q30m, listening for SMTP on [127.0.0.1]:25
+2016-12-19 14:14:53 Start queue run: pid=1419
+2016-12-19 14:14:53 1cIm8w-0000yI-6V Message is frozen
+2016-12-19 14:14:54 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c03::1a] Network is unreachable
+2016-12-19 14:17:02 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [173.194.208.26] Connection timed out
+2016-12-19 14:17:02 1cImAN-0001CD-0m ALT1.ASPMX.L.GOOGLE.COM [2800:3f0:4003:c01::1a] Network is unreachable
+2016-12-19 14:19:09 1cImAN-0001CD-0m ALT2.ASPMX.L.GOOGLE.COM [209.85.202.27] Connection timed out
+2016-12-19 14:21:16 1cImAN-0001CD-0m ALT1.ASPMX.L.GOOGLE.COM [64.233.190.26] Connection timed out
+2016-12-19 14:23:23 1cImAN-0001CD-0m ALT4.ASPMX.L.GOOGLE.COM [173.194.69.26] Connection timed out
+2016-12-19 14:23:23 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (110): Connection timed out
+2016-12-19 14:23:24 1cImOh-0001OM-8j == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 14:23:24 1cImRR-0001OU-02 == nwanna615@hotmail.com routing defer (-51): retry time not reached
+2016-12-19 14:23:24 1cImN5-0001OE-3r ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c0c::1b] Network is unreachable
+2016-12-19 14:25:32 1cImN5-0001OE-3r ASPMX.L.GOOGLE.COM [74.125.22.26] Connection timed out
+2016-12-19 14:25:32 1cImN5-0001OE-3r ALT1.ASPMX.L.GOOGLE.COM [2800:3f0:4003:c01::1b] Network is unreachable
+2016-12-19 14:25:32 1cImN5-0001OE-3r ALT2.ASPMX.L.GOOGLE.COM [2a00:1450:400b:c03::1a] Network is unreachable
+2016-12-19 14:27:39 1cImN5-0001OE-3r ALT2.ASPMX.L.GOOGLE.COM [209.85.203.26] Connection timed out
+2016-12-19 14:29:46 1cImN5-0001OE-3r ALT3.ASPMX.L.GOOGLE.COM [74.125.140.27] Connection timed out
+2016-12-19 14:29:46 1cImN5-0001OE-3r == dc376@njit.edu R=dnslookup T=remote_smtp defer (110): Connection timed out
+2016-12-19 14:31:54 1cJ17G-00022T-63 ASPMX.L.GOOGLE.COM [173.194.207.27] Connection timed out
+2016-12-19 14:33:47 1cJ3gx-0000f2-5P <= pn57@debian U=pn57 P=local S=309
+2016-12-19 14:33:47 1cJ3gx-0000f2-5P ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c0b::1a] Network is unreachable
+2016-12-19 14:34:01 1cJ17G-00022T-63 ALT1.ASPMX.L.GOOGLE.COM [64.233.190.27] Connection timed out
+2016-12-19 14:35:54 1cJ3gx-0000f2-5P ASPMX.L.GOOGLE.COM [74.125.29.27] Connection timed out
+2016-12-19 14:36:08 1cJ17G-00022T-63 ALT2.ASPMX.L.GOOGLE.COM [209.85.203.27] Connection timed out
+2016-12-19 14:36:08 1cJ17G-00022T-63 ALT4.ASPMX.L.GOOGLE.COM [2a00:1450:4013:c04::1b] Network is unreachable
+2016-12-19 14:36:08 1cJ17G-00022T-63 ALT3.ASPMX.L.GOOGLE.COM [2a00:1450:400c:c08::1a] Network is unreachable
+2016-12-19 14:36:08 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 14:36:08 End queue run: pid=1419
+2016-12-19 14:38:02 1cJ3gx-0000f2-5P ALT1.ASPMX.L.GOOGLE.COM [64.233.190.27] Connection timed out
+2016-12-19 14:40:09 1cJ3gx-0000f2-5P ALT3.ASPMX.L.GOOGLE.COM [74.125.140.26] Connection timed out
+2016-12-19 14:40:09 1cJ3gx-0000f2-5P == pn57@njit.edu R=dnslookup T=remote_smtp defer (110): Connection timed out
+2016-12-19 14:44:53 Start queue run: pid=2823
+2016-12-19 14:44:53 1cJ17G-00022T-63 ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c06::1b] Network is unreachable
+2016-12-19 14:47:00 1cJ17G-00022T-63 ASPMX.L.GOOGLE.COM [173.194.205.27] Connection timed out
+2016-12-19 14:47:00 1cJ17G-00022T-63 ALT2.ASPMX.L.GOOGLE.COM [2a00:1450:400b:c03::1b] Network is unreachable
+2016-12-19 14:47:00 1cJ17G-00022T-63 == pn57@njit.edu R=dnslookup T=remote_smtp defer (101): Network is unreachable
+2016-12-19 14:47:01 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [2607:f8b0:400d:c01::1a] Network is unreachable
+2016-12-19 14:49:08 1cImAN-0001CD-0m ASPMX.L.GOOGLE.COM [173.194.204.27] Connection timed out
+2016-12-19 14:51:15 1cImAN-0001CD-0m == dc376@njit.edu R=dnslookup T=remote_smtp defer (-1): smtp transport process returned non-zero status 0x0100: exit code 1
